@@ -1,0 +1,7 @@
+- Após a instalação, abra o prompt de comando e digite "dotnet".
+
+- O segundo passo é digitar o comando: dotnet new console -o MyApp -f net6.0.
+
+- feito isso, digite: cd MyApp.
+
+- O último passo é digitar: run. E logo aparecerá a mensagem "Hello World!" escrita no console.
